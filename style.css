@@ -1,0 +1,18 @@
+
+.product-card{
+    background-color: lightgray;
+    border: 30px solid; border-color: white;
+    border-image: url('border.png');
+    border-image-slice: 20;
+    border-radius: 10px;
+    margin: 40, 40, 40, 40;
+}
+div{
+    width: 300px;
+    align-items: center;
+    
+}
+.description{
+    height: 100px;
+    
+}
